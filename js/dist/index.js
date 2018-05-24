@@ -1,3 +1,11 @@
+// import Carousel from './carousel'
+// import Collapse from './collapse'
+// import Dropdown from './dropdown'
+// import Popover from './popover'
+// import Scrollspy from './scrollspy'
+// import Tooltip from './tooltip'
+// import Util from './util'
+
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.1.1): index.js
